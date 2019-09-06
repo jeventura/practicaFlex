@@ -1,5 +1,4 @@
-# Titulo
-ACTIVIDAD DE CLASE
+# Actividad de clase
 
 #Integrantes
 
