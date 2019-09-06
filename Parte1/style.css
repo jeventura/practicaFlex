@@ -1,0 +1,35 @@
+.box1{
+    width: 90%;
+    height: 60px;
+    border:1px solid #C1C2C8;
+    margin: 5px auto 10px;
+    background-color: #C1C2C8;
+    padding:10px;
+    box-shadow: 1px 0px 4px #5D5D5D;
+  }
+  
+  .box2{
+    width: 90%;
+    height: 300px;
+    border:1px solid #C1C2C8;
+    margin: 5px auto 10px;
+    background-color: #C1C2C8;
+    padding:10px;
+    box-shadow: 1px 0px 4px #5D5D5D;
+  }
+  
+  .box3{
+    width: 90%;
+    height: 60px;
+    border:1px solid #C1C2C8;
+    margin: 5px auto 10px;
+    background-color: #C1C2C8;
+    padding:10px;
+    box-shadow: 1px 0px 4px #5D5D5D;
+  }
+  
+  .container{
+    display:flex;
+    flex-direction: column;
+    aling-content: stretch;
+  }
