@@ -1,0 +1,32 @@
+.body{
+    background-color: darkblue;
+}
+
+.header{
+    display: flex;
+    height: 100px;
+    border: 1px solid burlywood;
+    background-color:goldenrod;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.main{
+    display: flex;
+    margin: 1px;
+    justify-content: space-around;
+}
+section{
+    display: flex;
+    height: 500px;
+    width: 30%;
+    border: 1px solid gold;
+    background-color: goldenrod;
+}
+.footer{
+    display: flex;
+    height: 100px;
+    border: 1px solid goldenrod;
+    background-color: gold;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
